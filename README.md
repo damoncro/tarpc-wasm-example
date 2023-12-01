@@ -13,7 +13,7 @@ Server will be running at 127.0.0.1:3000
 wasm-pack build
 ```
 
-## build the client (making use of )
+## build the client (making use of wasm lib)
 ```
 npm install
 export NODE_OPTIONS=--openssl-legacy-provider
